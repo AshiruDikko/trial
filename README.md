@@ -1,3 +1,4 @@
 # trial
 Challenge repo
 ![Dany's Diner.png](https://github.com/AshiruDikko/trial/blob/main/Danny's%20Diner.png?raw=true)
+![Another one](https://user-images.githubusercontent.com/67468178/165975945-4fffdeef-1e50-403d-9f27-beb833a2cab3.png)
